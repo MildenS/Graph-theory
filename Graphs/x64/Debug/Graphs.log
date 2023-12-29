@@ -1,0 +1,3 @@
+﻿  Graphs.cpp
+E:\Универ\Теория графов\Graphs\Graphs\Graph.h(79,28): warning C4267: return: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+  Graphs.vcxproj -> E:\Универ\Теория графов\Graphs\x64\Debug\Graphs.exe
